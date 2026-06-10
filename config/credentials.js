@@ -1,0 +1,2 @@
+const API_KEY = 'AKIAIOSFODNN7EXAMPLE';
+const SECRET_TOKEN = process.env.SECRET;
